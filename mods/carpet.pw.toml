@@ -3,6 +3,6 @@ filename = "fabric-carpet-1.19.1-1.4.83+v220727.jar"
 side = "both"
 
 [download]
-url = "https://github.com/gnembon/fabric-carpet/releases/download/1.4.83/fabric-carpet-1.19.1-1.4.83+v220727.jar"
+url = "https://objects.githubusercontent.com/github-production-release-asset-2e65be/185908133/06bee4d4-5bf3-4e7b-98b9-3134f331a5e6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220927%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220927T004848Z&X-Amz-Expires=300&X-Amz-Signature=904015929088a866de503a48b2c8cdddfd1f12659314d63bb4f8c4c9d16788d1&X-Amz-SignedHeaders=host&actor_id=74706690&key_id=0&repo_id=185908133&response-content-disposition=attachment%3B%20filename%3Dfabric-carpet-1.19.1-1.4.83%2Bv220727.jar&response-content-type=application%2Foctet-stream"
 hash-format = "sha1"
 hash = "217011afdab1a41395dd0ec37095497ca8eb8c79"
