@@ -1,0 +1,13 @@
+name = "Jade's Server Pack"
+author = "jadelily18"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5ab4751b06a892cbe4fcb7cf8317ab10ef13d20e8b35a19a8eaf47bd6c8de072"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"
