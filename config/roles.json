@@ -6,7 +6,7 @@
                 "style": ["#f29ff5", "italic"],
 				"prefix": {
 					"text": "[Owner]",
-					"color": "#ab5fad"
+					"color": "#924b94"
 				}
             },
             "permission_level": 4,
