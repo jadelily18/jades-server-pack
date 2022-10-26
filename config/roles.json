@@ -3,7 +3,11 @@
         "level": 999,
         "overrides": {
             "name_decoration": {
-                "style": ["#f29ff5", "italic"]
+                "style": ["#f29ff5", "italic"],
+				"prefix": {
+					"text": "[Owner]",
+					"color": "#ab5fad"
+				}
             },
             "permission_level": 4,
             "command_feedback": true,
