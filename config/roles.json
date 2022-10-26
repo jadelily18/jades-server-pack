@@ -5,7 +5,7 @@
             "name_decoration": {
                 "style": ["#f29ff5", "italic"],
 				"prefix": {
-					"text": "[Owner]",
+					"text": "[Owner] ",
 					"color": "#924b94"
 				}
             },
