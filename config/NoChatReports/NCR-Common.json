@@ -1,0 +1,7 @@
+{
+    "demandOnClientMessage": "Jade may be a dumbass! Send her a screenshot of this message on Discord!",
+    "demandOnClient": false ,
+    "enableDebugLog": false,
+    "convertToGameMessage": false,
+    "addQueryData": true
+  }
