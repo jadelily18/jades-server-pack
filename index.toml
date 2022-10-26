@@ -61,13 +61,13 @@ hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "0cccc3f572cda0003a3fdcd1e69caff25dca302db09653ce5c3ca2f7e44be4f2"
+file = "mods/no-chat-reports.pw.toml"
+hash = "60afa14f60b3a0606d36fd5f3646089e39387c0fe154c99e5e2757d534b2b3a2"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "60afa14f60b3a0606d36fd5f3646089e39387c0fe154c99e5e2757d534b2b3a2"
+file = "mods/player-roles.pw.toml"
+hash = "fb0955b523963fbfe80c36f6ac7339348c39c1b0e35b3195dc55b9c41a65d1cf"
 metafile = true
 
 [[files]]
@@ -83,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "125167365cf7e42c61b9799e5678c5dd392561ffe38c443575ff7fad4309641b"
 metafile = true
 
 [[files]]
