@@ -3,7 +3,7 @@
         "level": 999,
         "overrides": {
             "name_decoration": {
-                "style": ["#f29ff5", "bold"]
+                "style": ["#f29ff5", "italic"]
             },
             "permission_level": 4,
             "command_feedback": true,
@@ -16,7 +16,7 @@
     "everyone": {
         "overrides": {
 			"name_decoration": {
-				"style": ["#f29ff5"]
+				"style": ["#aa69f0"]
 			},
             "commands": {
                 "help": "allow",
