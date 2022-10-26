@@ -17,15 +17,18 @@
         }
     },
 
+    "trusted": {
+        "overrides": {
+            "permission_level": 3
+        }  
+    },
+
     "everyone": {
         "overrides": {
 			"name_decoration": {
 				"style": ["#aa69f0"]
 			},
-            "commands": {
-                "help": "allow",
-                ".*": "deny"
-            }
+            "permission_level": 2
         }
     }
 }
